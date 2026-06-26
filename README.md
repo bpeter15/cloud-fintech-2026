@@ -1,6 +1,6 @@
 </> Markdown 
-# Cloud Fintech Journey 2026
-This repository documents a 16 week transtion project plan to transition into cloud infrastructure engineering with a primary focus on fintech-grade systems.
+# Cloud Fintech Portfolio Project 2026
+This repository documents a 16 week transtion project plan and portfolio to transition into cloud infrastructure engineering with a primary focus on fintech-grade systems.
 ## Goal
 To build production-level skills in:
 -AWS cloud infrastructure
