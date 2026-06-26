@@ -9,3 +9,4 @@
   -ssh'd into new instance from local computer and resolved permission denial issue preventing ssh connection
   -apt updated/upgraded ubuntu instance
   -installed nginx and customized splash page
+  -curled and installed the aws cli
